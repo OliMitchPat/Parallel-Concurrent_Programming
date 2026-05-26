@@ -1,0 +1,12 @@
+C:\Users\omitc\Downloads\3d triangles (1)\target\debug\deps\libhalf-e23e91586526f5bb.rmeta: C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.6.0\src\lib.rs C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.6.0\src\bfloat.rs C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.6.0\src\bfloat\convert.rs C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.6.0\src\binary16.rs C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.6.0\src\binary16\arch.rs C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.6.0\src\binary16\arch\x86.rs C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.6.0\src\leading_zeros.rs C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.6.0\src\slice.rs
+
+C:\Users\omitc\Downloads\3d triangles (1)\target\debug\deps\half-e23e91586526f5bb.d: C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.6.0\src\lib.rs C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.6.0\src\bfloat.rs C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.6.0\src\bfloat\convert.rs C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.6.0\src\binary16.rs C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.6.0\src\binary16\arch.rs C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.6.0\src\binary16\arch\x86.rs C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.6.0\src\leading_zeros.rs C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.6.0\src\slice.rs
+
+C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.6.0\src\lib.rs:
+C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.6.0\src\bfloat.rs:
+C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.6.0\src\bfloat\convert.rs:
+C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.6.0\src\binary16.rs:
+C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.6.0\src\binary16\arch.rs:
+C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.6.0\src\binary16\arch\x86.rs:
+C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.6.0\src\leading_zeros.rs:
+C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.6.0\src\slice.rs:

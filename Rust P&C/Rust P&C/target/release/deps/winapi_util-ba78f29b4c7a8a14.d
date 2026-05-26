@@ -1,0 +1,11 @@
+C:\Users\omitc\Downloads\3d triangles (1)\target\release\deps\libwinapi_util-ba78f29b4c7a8a14.rmeta: C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.9\src\lib.rs C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.9\src\console.rs C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.9\src\file.rs C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.9\src\sysinfo.rs C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.9\src\win.rs
+
+C:\Users\omitc\Downloads\3d triangles (1)\target\release\deps\libwinapi_util-ba78f29b4c7a8a14.rlib: C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.9\src\lib.rs C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.9\src\console.rs C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.9\src\file.rs C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.9\src\sysinfo.rs C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.9\src\win.rs
+
+C:\Users\omitc\Downloads\3d triangles (1)\target\release\deps\winapi_util-ba78f29b4c7a8a14.d: C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.9\src\lib.rs C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.9\src\console.rs C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.9\src\file.rs C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.9\src\sysinfo.rs C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.9\src\win.rs
+
+C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.9\src\lib.rs:
+C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.9\src\console.rs:
+C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.9\src\file.rs:
+C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.9\src\sysinfo.rs:
+C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.9\src\win.rs:

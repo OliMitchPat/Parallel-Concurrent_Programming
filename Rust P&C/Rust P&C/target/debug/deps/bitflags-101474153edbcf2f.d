@@ -1,0 +1,11 @@
+C:\Users\omitc\Downloads\3d triangles (1)\target\debug\deps\libbitflags-101474153edbcf2f.rmeta: C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.9.0\src\lib.rs C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.9.0\src\iter.rs C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.9.0\src\parser.rs C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.9.0\src\traits.rs C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.9.0\src\public.rs C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.9.0\src\internal.rs C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.9.0\src\external.rs
+
+C:\Users\omitc\Downloads\3d triangles (1)\target\debug\deps\bitflags-101474153edbcf2f.d: C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.9.0\src\lib.rs C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.9.0\src\iter.rs C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.9.0\src\parser.rs C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.9.0\src\traits.rs C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.9.0\src\public.rs C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.9.0\src\internal.rs C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.9.0\src\external.rs
+
+C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.9.0\src\lib.rs:
+C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.9.0\src\iter.rs:
+C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.9.0\src\parser.rs:
+C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.9.0\src\traits.rs:
+C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.9.0\src\public.rs:
+C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.9.0\src\internal.rs:
+C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.9.0\src\external.rs:

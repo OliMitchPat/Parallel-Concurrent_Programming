@@ -1,0 +1,11 @@
+C:\Users\omitc\Downloads\3d triangles (1)\target\release\deps\libciborium_ll-0cb292f6d4e60e4c.rmeta: C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.2\src\lib.rs C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.2\src\dec.rs C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.2\src\enc.rs C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.2\src\hdr.rs C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.2\src\seg.rs
+
+C:\Users\omitc\Downloads\3d triangles (1)\target\release\deps\libciborium_ll-0cb292f6d4e60e4c.rlib: C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.2\src\lib.rs C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.2\src\dec.rs C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.2\src\enc.rs C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.2\src\hdr.rs C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.2\src\seg.rs
+
+C:\Users\omitc\Downloads\3d triangles (1)\target\release\deps\ciborium_ll-0cb292f6d4e60e4c.d: C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.2\src\lib.rs C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.2\src\dec.rs C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.2\src\enc.rs C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.2\src\hdr.rs C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.2\src\seg.rs
+
+C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.2\src\lib.rs:
+C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.2\src\dec.rs:
+C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.2\src\enc.rs:
+C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.2\src\hdr.rs:
+C:\Users\omitc\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.2\src\seg.rs:
