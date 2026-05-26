@@ -3,7 +3,7 @@ This repository contains two code bases one that achieves a parallel flocking so
 
 ## Code Report
 
--[Code Report](Parallel and Concurrent CW Final.pdf)
+-[Code Report](https://github.com/OliMitchPat/Parallel-Concurrent_Programming/blob/main/Parallel%20and%20Concurrent%20CW%20Final.pdf)
 
 ## Video Demo 
 
